@@ -1,0 +1,10 @@
+streamlit
+pandas
+openai
+langchain
+faiss-cpu  # or chromadb
+tiktoken
+python-dotenv
+PyPDF2
+SpeechRecognition
+pyttsx3
